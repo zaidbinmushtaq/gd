@@ -17,9 +17,9 @@ function HomepageHeader() {
           GitAds Documentation
         </Heading>
         <p className="hero__subtitle">
-          Fueling Open-source
+          ⛽︎ Fueling Open-source
         </p>
-        <p className="hero__subtitle">
+        <p className="hero__subtitle smaller-text">
           The premier platform for monetizing open-source GitHub repositories
         </p>
         <div className={styles.buttons}>
