@@ -75,7 +75,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/gitads-docs-social-card.png',
+      image: 'img/gitads-docs-social-card-slim.png',
       navbar: {
         title: 'Help center',
         logo: {
