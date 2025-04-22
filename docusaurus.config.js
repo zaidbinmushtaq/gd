@@ -89,7 +89,7 @@ const config = {
             position: 'left',
             label: 'Docs & FAQs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/cosmic-stack/gitads-docs',
             label: 'GitHub',
