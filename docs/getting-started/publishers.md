@@ -15,7 +15,7 @@ To verify ownership of your GitHub repository, follow these quick steps:
 
 1. **Copy Verification Code**
    ```html
-   <!-- GitAds-Verify: HOVLFSRKIHCRFHC4B31EXLJFM1KAZMAK -->
+   <!-- GitAds-Verify: HXVLFSRKIHCRFHC4B31EXLJFM1KAZMAK -->
    ```
 
 2. **Add to README.md**
