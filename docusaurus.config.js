@@ -48,8 +48,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cosmic-stack/gitads-docs/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+            'https://github.com/cosmic-stack/gitads-docs/edit/main/',        },
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -59,7 +58,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cosmic-stack/gitads-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/cosmic-stack/gitads-docs/edit/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
