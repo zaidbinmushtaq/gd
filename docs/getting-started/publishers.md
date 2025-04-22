@@ -32,7 +32,7 @@ To verify ownership of your GitHub repository, follow these quick steps:
 Once verified, you can remove the old verification code.
 
 ### Step 4: Place Ads
-Copy and paste the following ad snippet into your `README.md`:
+Copy and paste the ad snippet into your `README.md` (eg,) from your added repository list:
 
 ```markdown
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=awesome-user/awesome-repository@github)](https://gitads.dev/v1/ad-track?source=awesome-user/awesome-repository@github)
