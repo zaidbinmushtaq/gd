@@ -1,0 +1,9 @@
+{
+    "label": "Help & Guides",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Detailed guides and help documentation for using GitAds effectively."
+    }
+  }
+  

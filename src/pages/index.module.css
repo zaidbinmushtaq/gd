@@ -8,11 +8,31 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(135deg, #4f46e5 0%, #7e22ce 100%);
+  color: white;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+  
+  .buttons {
+    flex-direction: column;
+  }
+  
+  .buttons a:not(:first-child) {
+    margin-left: 0 !important;
+    margin-top: 1rem;
+  }
+  
+  .ctaButtons {
+    flex-direction: column;
+  }
+  
+  .ctaButtons a:not(:first-child) {
+    margin-left: 0 !important;
+    margin-top: 1rem;
   }
 }
 
@@ -20,4 +40,72 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 2rem;
+}
+
+.valueProposition {
+  padding: 4rem 0;
+  background-color: #f9fafb;
+}
+
+.howItWorks {
+  padding: 4rem 0;
+}
+
+.testimonials {
+  padding: 4rem 0;
+  background-color: #f9fafb;
+}
+
+.ctaSection {
+  padding: 4rem 0;
+  text-align: center;
+  background: linear-gradient(135deg, #4f46e5 0%, #7e22ce 100%);
+  color: white;
+}
+
+.ctaButtons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.sectionTitle {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.featureCard {
+  padding: 2rem;
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.testimonialCard {
+  padding: 2rem;
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  margin-bottom: 1rem;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.author {
+  font-weight: bold;
+  text-align: right;
 }
