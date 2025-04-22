@@ -145,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © GitAds ${new Date().getFullYear()} My Project, Inc.`,
+        copyright: `Copyright © GitAds ${new Date().getFullYear()} Cosmic Stack, Inc.`,
       },
       prism: {
         theme: prismThemes.github,
