@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'GitAds: Docs, Help & FAQs',
   tagline: 'Fueling Open-source',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://gitads.dev/assets/images/logo_icon/favicon.png',
 
   // Set the production url of your site here
   url: 'https://docs.gitads.dev',
