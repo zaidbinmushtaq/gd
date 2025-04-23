@@ -1,6 +1,6 @@
 ---
 id: advertisers
-title: FAQs for Advertisers
+title: Advertiser FAQ
 slug: /faq/advertisers
 ---
 
