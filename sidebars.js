@@ -68,16 +68,16 @@ const sidebars = {
         'help/faq',
       ],
     },
-    {
-      type: 'category',
-      label: 'API Reference',
-      items: [
-        'api/overview',
-        'api/authentication',
-        'api/endpoints',
-        'api/webhooks',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'API Reference',
+    //   items: [
+    //     'api/overview',
+    //     'api/authentication',
+    //     'api/endpoints',
+    //     'api/webhooks',
+    //   ],
+    // },
     {
       type: 'category',
       label: 'FAQ',
