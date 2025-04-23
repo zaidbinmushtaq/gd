@@ -78,6 +78,7 @@
 }
 
 [data-theme='dark'] .button--primary {
+  color: white;
   background-color: var(--ifm-color-primary);
   border-color: var(--ifm-color-primary);
 }
