@@ -12,11 +12,6 @@
   color: white;
 }
 
-[data-theme='dark'] .heroBanner {
-  background: linear-gradient(135deg, #2d2b8a 0%, #4a1578 100%);
-  color: white;
-}
-
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
@@ -54,7 +49,7 @@
 }
 
 [data-theme='dark'] .valueProposition {
-  background-color: var(--ifm-background-color);
+  background-color: var(--ifm-background-surface-color);
   color: var(--ifm-font-color-base);
 }
 
@@ -63,7 +58,7 @@
 }
 
 [data-theme='dark'] .howItWorks {
-  background-color: var(--ifm-background-surface-color);
+  background-color: var(--ifm-background-color);
   color: var(--ifm-font-color-base);
 }
 
@@ -73,7 +68,7 @@
 }
 
 [data-theme='dark'] .testimonials {
-  background-color: var(--ifm-background-color);
+  background-color: var(--ifm-background-surface-color);
   color: var(--ifm-font-color-base);
 }
 
@@ -81,11 +76,6 @@
   padding: 4rem 0;
   text-align: center;
   background: linear-gradient(135deg, #4f46e5 0%, #7e22ce 100%);
-  color: white;
-}
-
-[data-theme='dark'] .ctaSection {
-  background: linear-gradient(135deg, #2d2b8a 0%, #4a1578 100%);
   color: white;
 }
 
@@ -112,8 +102,9 @@
 
 [data-theme='dark'] .featureCard {
   background-color: var(--ifm-background-surface-color);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--ifm-font-color-base);
 }
 
 .featureCard:hover {
@@ -136,8 +127,9 @@
 
 [data-theme='dark'] .testimonialCard {
   background-color: var(--ifm-background-surface-color);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--ifm-font-color-base);
 }
 
 .quote {
@@ -146,12 +138,25 @@
   margin-bottom: 1rem;
 }
 
+[data-theme='dark'] .quote {
+  color: var(--ifm-font-color-base);
+}
+
 .author {
   font-weight: bold;
   text-align: right;
 }
 
+[data-theme='dark'] .author {
+  color: var(--ifm-color-primary-lighter);
+}
+
 .smaller-text {
   font-size: 0.8rem !important;
-  opacity: 0.9;
+}
+
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3 {
+  color: var(--ifm-heading-color);
 }

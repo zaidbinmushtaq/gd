@@ -11,7 +11,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero', styles.heroBanner)}>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h2" className="hero__title">
           GitAds Documentation
@@ -24,12 +24,12 @@ function HomepageHeader() {
         </p>
         <div className={styles.buttons}>
           <Link
-            className="button button--outline button--lg"
+            className="button button--secondary button--lg"
             to="/docs/getting-started/publishers">
             For Publishers
           </Link>
           <Link
-            className="button button--outline button--lg"
+            className="button button--secondary button--lg"
             style={{marginLeft: '12px'}}
             to="/docs/getting-started/advertisers">
             For Advertisers
