@@ -6,6 +6,28 @@ sidebar_label: Publishers Guide
 
 # Getting Started for Publishers
 
+## 🚀 Quick Start Guide (5 Minutes)
+
+```mermaid
+graph LR
+    A[Sign Up] -->|GitHub OAuth| B[Add Repository]
+    B --> C[Verify Ownership]
+    C --> D[Place Ad]
+    D --> E[Get Paid]
+```
+
+1. **Sign Up**: Visit [Publisher Registration](https://gitads.dev/publisher/register) and connect with GitHub
+2. **Add Repository**: Enter your GitHub repository URL in your dashboard
+3. **Verify**: Add the verification code to your README.md
+4. **Place Ad**: Copy and paste the ad snippet at the top of your README.md
+5. **Earnings**: Monitor your dashboard for impressions and earnings
+
+Ready for detailed setup? Continue reading below! 👇
+
+:::tip Quick Setup Video
+Watch our [2-minute setup tutorial](https://gitads.dev/tutorials/quick-setup) to see the process in action.
+:::
+
 Welcome to GitAds! This comprehensive guide will walk you through the process of monetizing your GitHub repositories with non-intrusive, developer-focused advertisements.
 
 ## Step 1: Register Your Account

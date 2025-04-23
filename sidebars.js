@@ -30,6 +30,64 @@ const sidebars = {
     },
   ],
    */
+
+  docs: [
+    'intro',
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: [
+        'getting-started/publishers',
+        'getting-started/advertisers',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Guides',
+      items: [
+        'guides/best-practices',
+        'guides/optimization',
+        'guides/analytics',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Technical Documentation',
+      items: [
+        'technical/api-reference',
+        'technical/integration',
+        'technical/security',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Help & Support',
+      items: [
+        'help/troubleshooting',
+        'help/support-tickets',
+        'help/faq',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'API Reference',
+      items: [
+        'api/overview',
+        'api/authentication',
+        'api/endpoints',
+        'api/webhooks',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'FAQ',
+      items: [
+        'faq/publishers',
+        'faq/advertisers',
+        'faq/general',
+      ],
+    },
+  ],
 };
 
 export default sidebars;
