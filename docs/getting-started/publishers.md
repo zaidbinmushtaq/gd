@@ -10,13 +10,13 @@ sidebar_label: Publishers Guide
 
 ```mermaid
 graph LR
-    A[Sign Up] -->|GitHub OAuth| B[Add Repository]
+    A[Sign Up] --> B[Add Repository]
     B --> C[Verify Ownership]
     C --> D[Place Ad]
     D --> E[Get Paid]
 ```
 
-1. **Sign Up**: Visit [Publisher Registration](https://gitads.dev/publisher/register) and connect with GitHub
+1. **Sign Up**: Visit [Publisher Registration](https://gitads.dev/publisher/register) to create your account
 2. **Add Repository**: Enter your GitHub repository URL in your dashboard
 3. **Verify**: Add the verification code to your README.md
 4. **Place Ad**: Copy and paste the ad snippet at the top of your README.md
@@ -33,9 +33,11 @@ Welcome to GitAds! This comprehensive guide will walk you through the process of
 ## Step 1: Register Your Account
 
 1. Visit [Publisher Registration](https://gitads.dev/publisher/register) to create your account
-2. Sign up using your email or GitHub OAuth
-3. Complete your profile with payment information
-4. Verify your email address to activate your account
+2. Fill in your basic information:
+   - Email address
+   - Password
+   - Display name
+3. Verify your email address to activate your account
 
 > **Note:** GitAds works with individual developers, open-source projects, and organizations of all sizes.
 
@@ -103,17 +105,31 @@ After successful verification, you can remove the verification code from your RE
 > - Consider adding a brief message explaining that ads help support the project
 > - For multi-language repositories, you can place ads in translated READMEs as well
 :::
-## Step 5: Complete KYC Verification
+## Step 5: Complete KYC and Payment Setup
 
-Know Your Customer (KYC) verification is required before receiving payments:
+Before you can receive payments for your earnings, you'll need to:
 
-1. Navigate to the **KYC Verification** section in your dashboard
-2. Prepare the required documents:
-   - Government-issued ID (passport, driver's license)
-   - Proof of address (utility bill, bank statement less than 3 months old)
-   - For organizations: business registration documents
-3. Upload the requested documents
-4. Verification typically takes 1-3 business days
+1. **Set Up Payment Information**
+   - Navigate to the **Payment Settings** in your dashboard
+   - Choose your preferred payment method:
+     - PayPal
+     - Bank transfer
+     - Cryptocurrency
+   - Enter and verify your payment details
+
+2. **Complete KYC Verification**
+   Know Your Customer (KYC) verification is required before receiving payments:
+   - Navigate to the **KYC Verification** section
+   - Prepare the required documents:
+     - Government-issued ID (passport, driver's license)
+     - Proof of address (utility bill, bank statement less than 3 months old)
+     - For organizations: business registration documents
+   - Upload the requested documents
+   - Verification typically takes 1-3 business days
+
+:::note
+You can start displaying ads and earning revenue while your KYC verification is in progress. However, you'll need to complete verification before receiving your first payment.
+:::
 
 ## Step 6: Monitor Performance & Get Paid
 
