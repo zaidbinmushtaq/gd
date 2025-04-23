@@ -12,6 +12,11 @@
   color: white;
 }
 
+[data-theme='dark'] .heroBanner {
+  background: linear-gradient(135deg, #2d2b8a 0%, #4a1578 100%);
+  color: white;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
@@ -48,8 +53,18 @@
   background-color: #f9fafb;
 }
 
+[data-theme='dark'] .valueProposition {
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
 .howItWorks {
   padding: 4rem 0;
+}
+
+[data-theme='dark'] .howItWorks {
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
 }
 
 .testimonials {
@@ -57,10 +72,20 @@
   background-color: #f9fafb;
 }
 
+[data-theme='dark'] .testimonials {
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
 .ctaSection {
   padding: 4rem 0;
   text-align: center;
   background: linear-gradient(135deg, #4f46e5 0%, #7e22ce 100%);
+  color: white;
+}
+
+[data-theme='dark'] .ctaSection {
+  background: linear-gradient(135deg, #2d2b8a 0%, #4a1578 100%);
   color: white;
 }
 
@@ -85,9 +110,19 @@
   transition: all 0.3s ease;
 }
 
+[data-theme='dark'] .featureCard {
+  background-color: var(--ifm-background-surface-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
 .featureCard:hover {
   transform: translateY(-5px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] .featureCard:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .testimonialCard {
@@ -97,6 +132,12 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   background-color: white;
   margin-bottom: 1rem;
+}
+
+[data-theme='dark'] .testimonialCard {
+  background-color: var(--ifm-background-surface-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .quote {
@@ -109,6 +150,8 @@
   font-weight: bold;
   text-align: right;
 }
+
 .smaller-text {
   font-size: 0.8rem !important;
+  opacity: 0.9;
 }
