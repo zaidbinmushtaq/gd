@@ -129,7 +129,7 @@ const config = {
                 href: 'https://threads.net/@git.ads',
               },
               {
-                label: 'Instaggram',
+                label: 'Instagram',
                 href: 'https://instagram.com/git.ads',
               },
             ],
