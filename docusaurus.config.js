@@ -48,7 +48,11 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cosmic-stack/gitads-docs/edit/main/',        },
+            'https://github.com/cosmic-stack/gitads-docs/edit/main/',
+          exclude: [
+            'api/**', // Exclude the entire API directory
+          ],
+        },
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -87,7 +91,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs & FAQs',
+            label: 'Documentation',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
