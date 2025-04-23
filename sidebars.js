@@ -31,13 +31,13 @@ const sidebars = {
         // 'guides/use-cases',
       ],
     },
-    {
-      type: 'category',
-      label: 'Technical Documentation',
-      items: [
-        // 'technical/integration-guide',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Technical Documentation',
+    //   items: [
+    //     // 'technical/integration-guide',
+    //   ],
+    // },
     {
       type: 'category',
       label: 'Help & Support',
