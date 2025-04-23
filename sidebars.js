@@ -11,8 +11,6 @@
  The sidebars can be generated from the filesystem, or explicitly defined here.
 
  Create as many sidebars as you want.
-
- @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
@@ -46,17 +44,14 @@ const sidebars = {
       label: 'Guides',
       items: [
         'guides/best-practices',
-        'guides/optimization',
-        'guides/analytics',
+        'guides/use-cases',
       ],
     },
     {
       type: 'category',
       label: 'Technical Documentation',
       items: [
-        'technical/api-reference',
-        'technical/integration',
-        'technical/security',
+        'technical/integration-guide',
       ],
     },
     {
@@ -64,30 +59,18 @@ const sidebars = {
       label: 'Help & Support',
       items: [
         'help/troubleshooting',
-        'help/support-tickets',
-        'help/faq',
+        'help/common-questions',
       ],
     },
-    // {
-    //   type: 'category',
-    //   label: 'API Reference',
-    //   items: [
-    //     'api/overview',
-    //     'api/authentication',
-    //     'api/endpoints',
-    //     'api/webhooks',
-    //   ],
-    // },
     {
       type: 'category',
       label: 'FAQ',
       items: [
         'faq/publishers',
         'faq/advertisers',
-        'faq/general',
       ],
     },
   ],
 };
 
-export default sidebars;
+module.exports = sidebars;

@@ -109,30 +109,20 @@ Select your issue type:
 
 ### Common Integration Problems
 
-1. **API Integration**
-   ```javascript
-   // Correct API Usage
-   const gitAdsAPI = require('gitads-api');
-   await gitAdsAPI.initialize({
-     apiKey: 'your-api-key',
-     repository: 'username/repo'
-   });
-   ```
-
-2. **Documentation Platform Issues**
+1. **Documentation Platform Issues**
    - Docusaurus configuration
    - VuePress setup
    - GitBook integration
 
-3. **Custom Implementation**
-   - Check CORS settings
-   - Verify API endpoints
-   - Review rate limits
+2. **Custom Implementation**
+   - Check site configuration
+   - Verify ad placement
+   - Review content settings
 
 ## 🔧 Advanced Troubleshooting
 
 ### Debug Mode
-Enable debug mode to get detailed logs:
+Enable debug mode in your browser console to get detailed logs:
 ```javascript
 window.GitAds.debug = true;
 ```
@@ -181,7 +171,6 @@ For fastest support, always include:
 | `ADS001` | Ad Not Found | Verify ad snippet |
 | `VER002` | Verification Failed | Check verification code |
 | `PAY003` | Payment Error | Update payment details |
-| `API004` | API Error | Check API key and limits |
-| `INT005` | Integration Error | Review implementation |
+| `INT001` | Integration Error | Review implementation |
 
 Remember to check our [FAQ section](/docs/faq/publishers) for more common questions and answers. 

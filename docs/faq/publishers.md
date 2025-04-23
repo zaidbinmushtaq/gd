@@ -8,7 +8,7 @@ sidebar_label: Publisher FAQs
 GitAds is an ad network specifically designed for GitHub repositories. It enables developers to monetize their open-source work by displaying relevant, developer-focused ads in their repositories while maintaining the integrity of their projects.
 
 ### ❓ How much can I earn?
-Earnings vary based on repository traffic, engagement, and ad performance. High-traffic repositories with engaged developer audiences typically earn $100-$1000+ per month. Earnings are calculated based on impressions (CPM) and clicks (CPC).
+Earnings vary based on repository traffic, engagement, and ad performance. Earnings are calculated based on impressions (CPM) and clicks (CPC).
 
 ### ❓ Is verification mandatory?
 Yes, repository verification is mandatory for security reasons. This ensures that only legitimate repository owners can display ads and receive payments. The verification process is simple and takes just a few minutes.
@@ -26,7 +26,6 @@ Yes. All publishers must complete Know Your Customer (KYC) verification to recei
 Payments are processed monthly when your earnings reach the minimum threshold ($50). We support multiple payment methods:
 - PayPal
 - Bank transfer (SWIFT/SEPA)
-- Cryptocurrency (BTC/ETH)
 Payments are typically sent within the first 10 days of each month.
 
 ### ❓ Can I add multiple repositories?

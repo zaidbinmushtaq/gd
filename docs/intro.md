@@ -53,7 +53,6 @@ GitAds was created to solve the sustainability challenge in open source. We beli
 - [Publisher FAQ](/docs/faq/publishers) — Common questions for repository maintainers
 - [Advertiser FAQ](/docs/faq/advertisers) — Common questions for companies looking to advertise
 - [Support Tickets](/docs/help/support-tickets) — How to get help when you need it
-- [API Documentation](/docs/api/overview) — Technical details for advanced integrations
 
 ## Our Values
 
