@@ -28,7 +28,7 @@ const sidebars = {
       label: 'Guides',
       items: [
         'guides/best-practices',
-        'guides/use-cases',
+        // 'guides/use-cases',
       ],
     },
     {
