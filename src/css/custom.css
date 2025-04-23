@@ -66,14 +66,37 @@
 }
 
 /* Make sure buttons have good contrast */
+.button--primary {
+  color: white !important;
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] .button--primary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+}
+
 [data-theme='dark'] .button--secondary {
-  color: var(--ifm-font-color-base);
-  border-color: var(--ifm-color-primary-lighter);
+  color: white;
+  background-color: transparent;
+  border-color: white;
 }
 
 [data-theme='dark'] .button--secondary:hover {
-  background-color: var(--ifm-color-primary-darker);
-  color: var(--ifm-font-color-base);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: white;
+  color: white;
 }
 
 /* Ensure code blocks are readable */
