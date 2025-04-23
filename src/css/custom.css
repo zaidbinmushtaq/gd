@@ -27,4 +27,56 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #1b1b1d;
+  --ifm-background-surface-color: #242526;
+  --ifm-font-color-base: #e3e3e3;
+  --ifm-heading-color: #ffffff;
+}
+
+/* Additional dark mode styles for better visibility */
+[data-theme='dark'] .hero {
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] .hero__title,
+[data-theme='dark'] .hero__subtitle {
+  color: var(--ifm-heading-color);
+}
+
+[data-theme='dark'] .card {
+  background-color: var(--ifm-background-surface-color);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='dark'] .footer {
+  background-color: var(--ifm-background-surface-color);
+}
+
+[data-theme='dark'] .navbar {
+  background-color: var(--ifm-background-surface-color);
+}
+
+/* Ensure links are visible in dark mode */
+[data-theme='dark'] a {
+  color: var(--ifm-color-primary-lighter);
+}
+
+[data-theme='dark'] a:hover {
+  color: var(--ifm-color-primary-lightest);
+}
+
+/* Make sure buttons have good contrast */
+[data-theme='dark'] .button--secondary {
+  color: var(--ifm-font-color-base);
+  border-color: var(--ifm-color-primary-lighter);
+}
+
+[data-theme='dark'] .button--secondary:hover {
+  background-color: var(--ifm-color-primary-darker);
+  color: var(--ifm-font-color-base);
+}
+
+/* Ensure code blocks are readable */
+[data-theme='dark'] code {
+  background-color: rgba(255, 255, 255, 0.1);
 }
