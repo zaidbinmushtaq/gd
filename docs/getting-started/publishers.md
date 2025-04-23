@@ -6,15 +6,6 @@ sidebar_label: Publishers Guide
 
 # Getting Started for Publishers
 
-## 🚀 Quick Start Guide (5 Minutes)
-
-```mermaid
-graph LR
-    A[Sign Up] --> B[Add Repository]
-    B --> C[Verify Ownership]
-    C --> D[Place Ad]
-    D --> E[Get Paid]
-```
 
 1. **Sign Up**: Visit [Publisher Registration](https://gitads.dev/publisher/register) to create your account
 2. **Add Repository**: Enter your GitHub repository URL in your dashboard
@@ -36,17 +27,17 @@ Welcome to GitAds! This comprehensive guide will walk you through the process of
 2. Fill in your basic information:
    - Email address
    - Password
-   - Display name
+   - Username
 3. Verify your email address to activate your account
 
 > **Note:** GitAds works with individual developers, open-source projects, and organizations of all sizes.
 
 ## Step 2: Add Your Repository
 
-1. From your dashboard, click **Add Repository**
+1. From your All Repositories, click **Add Repository**
 2. Enter your GitHub repository URL in the format: `https://github.com/username/repository`
-3. Select the primary programming language and category that best describes your repository
-4. Provide a brief description of your repository to help match relevant advertisers
+3. Select the Tags that best describe your repository. These tags help us match your repository with relevant advertisers.
+4. Click  **Add**
 
 :::tip
 > **Pro Tip:** Repositories with clear documentation and active maintenance typically generate higher advertising revenue.
@@ -55,11 +46,11 @@ Welcome to GitAds! This comprehensive guide will walk you through the process of
 
 To ensure security, we require verification of repository ownership:
 
-1. **Copy Your Unique Verification Code**
+1. **Copy Your Unique Verification Code after clicking Verify Button**
    ```html
    <!-- GitAds-Verify: UNIQUECODEEXAMPLE123456789 -->
    ```
-   This code will be displayed in your dashboard for each repository.
+   This code will be displayed in Verification Page for each repository.
 
 2. **Add to Your README.md**
    - Edit your repository's `README.md` file
@@ -68,8 +59,8 @@ To ensure security, we require verification of repository ownership:
    - Commit and push the changes to your repository
 
 3. **Complete Verification**
-   - Return to your GitAds dashboard
-   - Click the **Verify** button next to your repository
+   - Return to your GitAds
+   - Click the **Verify** in the Verification Page
    - Ensure you've selected the correct branch (default is `main`)
    - If using a different default branch (like `master`), update it in the dashboard
 
@@ -87,7 +78,6 @@ After successful verification, you can remove the verification code from your RE
 
 1. **Choose Placement Location**
    - Ads perform best at the top of your README.md
-   - Secondary placements can include documentation pages or wiki
 
 2. **Copy Your Ad Snippet**
    From your verified repository list, copy the ad snippet:
@@ -114,7 +104,6 @@ Before you can receive payments for your earnings, you'll need to:
    - Choose your preferred payment method:
      - PayPal
      - Bank transfer
-     - Cryptocurrency
    - Enter and verify your payment details
 
 2. **Complete KYC Verification**
@@ -125,7 +114,7 @@ Before you can receive payments for your earnings, you'll need to:
      - Proof of address (utility bill, bank statement less than 3 months old)
      - For organizations: business registration documents
    - Upload the requested documents
-   - Verification typically takes 1-3 business days
+   - Verification typically takes 1-3 business days (Currently we are not, until we move to Beta)
 
 :::note
 You can start displaying ads and earning revenue while your KYC verification is in progress. However, you'll need to complete verification before receiving your first payment.
@@ -140,7 +129,7 @@ You can start displaying ads and earning revenue while your KYC verification is 
 
 2. **Payment Details**
    - Payments are processed monthly for all earnings above $50
-   - Payment methods include PayPal, bank transfer, and cryptocurrency
+   - Payment methods include PayPal, bank transfer, and more to come
    - Earnings accumulate until they reach the minimum threshold
    - Payments are typically sent within the first 10 days of each month
 

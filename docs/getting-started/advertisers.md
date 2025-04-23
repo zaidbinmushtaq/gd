@@ -45,7 +45,6 @@ Bank transfers may take 2-3 business days to process. Plan accordingly if you ha
 
 - **Images:** 800×418px (1.91:1 ratio) in PNG or JPG format, max 200KB
 - **Headline:** 40 characters maximum
-- **Description:** 120 characters maximum
 - **Landing Page URL:** Must be a valid, secure (HTTPS) URL
 
 :::danger
@@ -56,9 +55,8 @@ Ads that don't meet our content requirements will be automatically rejected. Ens
 
 1. From your dashboard, click **Create New Ad**
 2. Upload your ad image
-3. Enter your headline and description
+3. Enter your headline
 4. Add your destination URL with proper UTM parameters for tracking
-5. Preview how your ad will appear in different repositories
 
 :::note
 Developer-focused ads perform best when they highlight specific technical benefits rather than general marketing messages. Focus on how your product solves real developer problems.
