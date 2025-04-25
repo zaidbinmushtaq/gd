@@ -25,7 +25,7 @@ Yes. All publishers must complete Know Your Customer (KYC) verification to recei
 ### ❓ How do I get paid?
 Payments are processed monthly when your earnings reach the minimum threshold ($50). We support multiple payment methods:
 - PayPal
-- Bank transfer (SWIFT/SEPA)
+<!-- - Bank transfer (SWIFT/SEPA) -->
 Payments are typically sent within the first 10 days of each month.
 
 ### ❓ Can I add multiple repositories?
@@ -65,11 +65,11 @@ No, GitAds currently only works with public repositories. This ensures maximum v
 
 ### ❓ How is ad revenue calculated?
 Revenue is calculated based on:
-- Impressions (CPM - Cost Per Mille)
+<!-- - Impressions (CPM - Cost Per Mille) -->
 - Clicks (CPC - Cost Per Click)
 - Geographic location of visitors
 - Engagement rates
-- Advertiser bids
+<!-- - Advertiser bids -->
 
 ### ❓ What happens if I violate the terms?
 Violations of our terms of service may result in:

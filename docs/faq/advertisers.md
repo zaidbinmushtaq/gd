@@ -46,17 +46,17 @@ Campaign requirements:
 ### ❓ How is billing handled?
 We offer flexible billing options:
 - Prepaid deposits
-- Pay-as-you-go for enterprise
+<!-- - Pay-as-you-go for enterprise -->
 - Multiple payment methods accepted
 - Transparent pricing with no hidden fees
 Unused budget can be refunded or applied to future campaigns.
 
-### ❓ What are the average campaign results?
+<!-- ### ❓ What are the average campaign results?
 Performance varies by targeting and content, but typical metrics include:
 - CTR: 0.1% - 0.5%
 - CPC: $0.50 - $2.00
 - CPM: $2.00 - $8.00
-Premium placements may have higher rates.
+Premium placements may have higher rates. -->
 
 ### ❓ Can I pause or delete my campaign?
 Yes, you have full control over your campaigns:
@@ -74,13 +74,13 @@ When your campaign reaches its budget limit:
 - Option to add funds instantly
 We recommend setting up auto-reload to prevent interruptions.
 
-### ❓ How do I optimize my campaigns?
+<!-- ### ❓ How do I optimize my campaigns?
 We provide several optimization tools:
 - A/B testing capabilities
 - Performance analytics
 - Audience insights
 - Targeting recommendations
-Premium advertisers get dedicated optimization support.
+Premium advertisers get dedicated optimization support. -->
 
 ### ❓ What ad content is not allowed?
 Prohibited content includes:
@@ -104,7 +104,7 @@ Our reporting suite includes:
 - Real-time performance metrics
 - Custom date ranges
 - Export capabilities
-- API access
+<!-- - API access -->
 - Geographic data
 - Repository-level insights
 
@@ -112,7 +112,7 @@ Our reporting suite includes:
 Standard review times:
 - New ads: 24 hours
 - Edits to approved ads: 4 hours
-- Premium accounts: Priority review
+<!-- - Premium accounts: Priority review -->
 All ads must meet our content guidelines.
 
 Need more assistance? Contact our advertiser support team:

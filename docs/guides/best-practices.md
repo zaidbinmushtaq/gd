@@ -55,7 +55,7 @@ A powerful tool for X that helps you accomplish Y faster
 3. Regular updates and maintenance
 4. Comprehensive API documentation
 
-## 💡 Tips from Successful Publishers
+<!-- ## 💡 Tips from Successful Publishers
 
 ### Case Study: Popular NPM Package
 - **Before**: Basic README with ad at bottom
@@ -81,7 +81,7 @@ Test different approaches:
 1. Ad placement variations
 2. README structure changes
 3. Different value propositions
-4. Various call-to-action formats
+4. Various call-to-action formats -->
 
 ## 🚫 Common Mistakes to Avoid
 
@@ -91,7 +91,7 @@ Test different approaches:
    - Disrupting documentation flow
 
 2. **Lack of Context**
-   - Not explaining ad presence
+   <!-- - Not explaining ad presence -->
    - Missing project description
    - Outdated documentation
 
@@ -115,7 +115,7 @@ Test different approaches:
 [Japanese content]
 ```
 
-### Documentation Integration
+<!-- ### Documentation Integration
 - Integrate with documentation platforms
 - Create dedicated landing pages
 - Use analytics to track user flow
@@ -130,7 +130,7 @@ Test different approaches:
 ### Documentation Platforms
 - Docusaurus optimization
 - GitBook integration
-- VuePress compatibility
+- VuePress compatibility -->
 
 ## 🤝 Community Building
 
@@ -151,12 +151,12 @@ Test different approaches:
 
 ## 📈 Success Metrics
 
-Track these key performance indicators:
+<!-- Track these key performance indicators:
 - Click-through rate (CTR)
 - Impression quality
 - User engagement
 - Community feedback
-- Revenue growth
+- Revenue growth -->
 
 ## Need Help?
 
