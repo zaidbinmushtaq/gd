@@ -50,8 +50,8 @@ const sidebars = {
       type: 'category',
       label: 'FAQ',
       items: [
-        'faq/publishers',
-        'faq/advertisers',
+        'Faq/publishers',
+        'Faq/advertisers',
       ],
     },
   ],

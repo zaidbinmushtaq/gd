@@ -15,10 +15,6 @@ Welcome to GitAds! This guide will walk you through everything you need to know 
 3. Verify your email address to activate your account
 4. Complete your profile.
 
-<!-- :::tip
-A complete profile with professional branding assets increases your ad performance by up to 30%. Take time to upload high-quality logos and write compelling company descriptions.
-::: -->
-
 ## Step 2: Fund Your Campaign
 
 GitAds offers flexible funding options to suit your advertising budget:
@@ -27,17 +23,8 @@ GitAds offers flexible funding options to suit your advertising budget:
 2. Choose your preferred payment method:
    - Credit/Debit Card
    - PayPal
-   <!-- - Bank Transfer (for campaigns over $1,000) -->
 3. Set your initial campaign budget for each ad. This can be done when creating ads.
 4. Funds will be available in your account immediately for card and PayPal payments
-
-<!-- :::info
-Larger budgets unlock premium targeting options and priority placement in high-traffic repositories. Consider starting with at least $1,000 for optimal results.
-::: -->
-
-<!-- :::caution
-Bank transfers may take 2-3 business days to process. Plan accordingly if you have time-sensitive campaigns.
-::: -->
 
 ## Step 3: Create Your First Ad
 
@@ -65,16 +52,6 @@ Developer-focused ads perform best when they highlight specific technical benefi
 
 ### Targeting Options
 - Currently we have only Global option. Country wise campaigns will be enabled in future.
-<!-- Choose your audience based on:
-
-- **Repository Categories:** Target by programming language, framework, or technology
-- **Specific Repositories:** Select individual repositories that match your audience
-- **Geographic Targeting:** Focus on developers in specific countries or regions
-- **Repository Traffic:** Filter by minimum monthly visitors -->
-
-<!-- :::tip
-Start with broader targeting and then refine based on performance data. Our analytics will show which repositories and categories drive the best results for your specific offering.
-::: -->
 
 ## Step 4: Launch and Optimize
 
@@ -92,65 +69,23 @@ All ads undergo a manual review process to ensure they meet our quality standard
 The GitAds dashboard provides comprehensive analytics:
 
 - **Real-time Metrics:** Track impressions, clicks, and CTR as they happen
-<!-- - **Conversion Tracking:** Integrate with your analytics tools via our API -->
-<!-- - **A/B Testing:** Compare performance of different ad creatives
-- **ROI Analysis:** Measure cost per acquisition and campaign ROI -->
 
-<!-- :::info
-Premium advertisers receive weekly performance reports with optimization recommendations from our developer marketing specialists.
-::: -->
-
-<!-- ## Step 6: Access Priority Support
-
-GitAds offers a dedicated support ticket system to help you maximize campaign performance:
-
-1. **Create Support Tickets**
-   - Log in to your GitAds advertiser dashboard
-   - Navigate to the **Support** tab in the left sidebar
-   - Click **Create New Ticket**
-   - Select the appropriate category for your issue
-   - Provide detailed information about your question or campaign
-
-2. **Priority Support Levels**
-   | Campaign Budget | Support Level | Response Time |
-   |-----------------|---------------|---------------|
-   | $500-$2,499     | Standard      | Within 24 hours |
-   | $2,500-$9,999   | Priority      | Within 8 hours |
-   | $10,000+        | Premium       | Within 4 hours | -->
-
-3. **Support Services Available**
-   <!-- - Campaign optimization recommendations -->
+## Support Services Available
    - Creative review and feedback
    - Targeting strategy assistance
    - Technical implementation help
    - Performance analysis
 
-<!-- :::tip
-When submitting support tickets, include your campaign ID and specific metrics or screenshots to help our team provide more targeted assistance.
-::: -->
-
 ## Best Practices for Success
 
 - **Target Relevant Repositories:** Focus on repositories that align with your product
-<!-- - **Refresh Creatives:** Update your ad creative every 2-3 weeks to prevent ad fatigue -->
-<!-- - **Test Different Messages:** A/B test different value propositions to see what resonates -->
-<!-- - **Optimize Landing Pages:** Ensure your landing page is optimized for developer conversion -->
-
-<!-- :::tip
-The most successful GitAds advertisers create dedicated landing pages for developer audiences rather than sending traffic to generic product pages.
-::: -->
 
 ## Need Help?
 
 Our advertiser success team is here to help you maximize your campaign performance:
 
 - Email: [support@gitads.dev](mailto:support@gitads.dev)
-<!-- - Schedule a [campaign strategy call](https://gitads.dev/advertiser/support) -->
 - Check our [Advertiser FAQ](/docs/faq/advertisers) for common questions
 - Join our [Discord community](https://discord.com/invite/S3EdtEbqw7) to connect with other publishers
-
-<!-- :::note
-First-time advertisers qualify for a free 30-minute strategy session with our developer marketing experts. [Book yours here](https://gitads.dev/advertiser/onboarding).
-::: -->
 
 Ready to reach millions of developers where they work? [Create your first campaign now](https://gitads.dev/advertiser/campaign/new)!
