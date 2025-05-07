@@ -15,10 +15,6 @@ sidebar_label: Publishers Guide
 
 Ready for detailed setup? Continue reading below! 👇
 
-<!-- :::tip Quick Setup Video
-Watch our [2-minute setup tutorial](https://gitads.dev/tutorials/quick-setup) to see the process in action.
-::: -->
-
 Welcome to GitAds! This comprehensive guide will walk you through the process of monetizing your GitHub repositories with non-intrusive, developer-focused advertisements.
 
 ## Step 1: Register Your Account
@@ -100,11 +96,6 @@ After successful verification, you can remove the verification code from your RE
 Before you can receive payments for your earnings, you'll need to:
 
 1. **Set Up Payment Information**
-   <!-- - Navigate to the **Payment Settings** in your dashboard
-   - Choose your preferred payment method:
-     - PayPal
-     - Bank transfer
-   - Enter and verify your payment details -->
    - Currently we are allowing payments via paypal only.
 
 2. **Complete KYC Verification**
@@ -112,8 +103,6 @@ Before you can receive payments for your earnings, you'll need to:
    - Navigate to the **KYC Verification** section, displayed on the dashboard itself.
    - Prepare the required documents:
      - Government-issued ID (passport, driver's license)
-     <!-- - Proof of address (utility bill, bank statement less than 3 months old) -->
-     <!-- - For organizations: business registration documents -->
    - Upload the requested documents
    - Verification typically takes 5-7 business days (Currently we are not, until we move to Beta)
 
@@ -154,19 +143,10 @@ GitAds provides comprehensive support to help you maximize your earnings and res
    - You'll receive email notifications when there are updates
    - Respond to support agent questions directly through the ticket interface
 
-<!-- 3. **Support Response Times**
-   | Priority Level | First Response Time |
-   |----------------|---------------------|
-   | Standard       | Within 24 hours     |
-   | High           | Within 12 hours     |
-   | Urgent         | Within 4 hours      | -->
 
 4. **Additional Support Options**
    - **Knowledge Base**: Browse our [Publisher FAQ](/docs/faq/faq-publishers) for instant answers
-   <!-- - **Video Tutorials**: Access step-by-step guides in our [Resource Center](https://gitads.dev/resources) -->
    - **Community Forum**: Connect with other publishers to share tips and strategies
-   <!-- - **Premium Support**: Publishers with high-traffic repositories qualify for priority support -->
-
 > **Pro Tip:** When submitting a support ticket, always include your repository URL and specific details about your issue to receive faster assistance.
 
 ## Maximizing Your Revenue

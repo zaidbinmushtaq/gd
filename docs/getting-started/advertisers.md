@@ -21,7 +21,6 @@ GitAds offers flexible funding options to suit your advertising budget:
 
 1. Navigate to the **Deposits** section in your dashboard
 2. Choose your preferred payment method:
-   - Credit/Debit Card
    - PayPal
 3. Set your initial campaign budget for each ad. This can be done when creating ads.
 4. Funds will be available in your account immediately for card and PayPal payments
@@ -72,8 +71,6 @@ The GitAds dashboard provides comprehensive analytics:
 
 ## Support Services Available
    - Creative review and feedback
-   - Targeting strategy assistance
-   - Technical implementation help
    - Performance analysis
 
 ## Best Practices for Success

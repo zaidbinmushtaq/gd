@@ -25,21 +25,6 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Guides',
-      items: [
-        'guides/best-practices',
-        // 'guides/use-cases',
-      ],
-    },
-    // {
-    //   type: 'category',
-    //   label: 'Technical Documentation',
-    //   items: [
-    //     // 'technical/integration-guide',
-    //   ],
-    // },
-    {
-      type: 'category',
       label: 'Help & Support',
       items: [
         'help/troubleshooting',
